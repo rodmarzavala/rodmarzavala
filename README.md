@@ -21,7 +21,7 @@
 
 ## About
 
-Lead Developer & DevOps engineer with 15+ years building backend systems and cloud infrastructure. Currently leading development at **Fundamental** while contributing open source libraries that solve real problems for the Guatemalan developer ecosystem — electronic billing (SAT/FEL), payments, and local utilities.
+Lead Developer & DevOps engineer with 15+ years building backend systems and cloud infrastructure. Currently leading development at **Fundamental**, managing distributed teams across Latin America (Guatemala, Colombia) while contributing open source libraries that solve real problems for the regional developer ecosystem — electronic billing (SAT/FEL), payments, and local utilities.
 
 Most of my professional work lives in private repos. The public ones are intentional contributions.
 
