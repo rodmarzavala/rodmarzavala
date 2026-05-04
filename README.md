@@ -100,8 +100,7 @@ Unofficial TypeScript SDK for [Recurrente](https://recurrente.com), a payment ga
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rodmarzavala&theme=github-dark-blue&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodmarzavala&layout=compact&theme=github_dark&hide_border=true&langs_count=6&count_private=true" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=rodmarzavala&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
