@@ -76,9 +76,7 @@ Unofficial TypeScript SDK for [Recurrente](https://recurrente.com), a payment ga
 
 ### 🛠️ Utilities
 
-- [`gt-utils-js`](https://github.com/rodmarzavala/gt-utils-js) — JavaScript utilities for Guatemalan developers
-- [`phone-carriers-bundle`](https://github.com/rodmarzavala/phone-carriers-bundle) — Symfony bundle to identify Guatemalan phone carriers
-- [`visa-snipper-gt`](https://github.com/rodmarzavala/visa-snipper-gt) — US visa appointment availability monitor for Guatemala
+- [`gt-utils-js`](https://github.com/rodmarzavala/gt-utils-js) — JavaScript/TypeScript utilities for Guatemalan developers
 
 ---
 
