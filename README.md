@@ -1,8 +1,8 @@
 <h1 align="center">Rodmar Zavala</h1>
 
 <p align="center">
-  <strong>Lead Developer · DevOps Engineer · Guatemala 🇬🇹</strong><br/>
-  Building production systems and open source tooling for Latin America
+  <strong>Engineering Lead · DevOps · Guatemala 🇬🇹</strong><br/>
+  Leading distributed teams and shipping production systems across Latin America & Europe
 </p>
 
 <p align="center">
@@ -21,13 +21,27 @@
 
 ## About
 
-Lead Developer & DevOps engineer with 15+ years building backend systems and cloud infrastructure. Currently leading development at **Fundamental**, managing distributed teams across Latin America (Guatemala, Colombia) while contributing open source libraries that solve real problems for the regional developer ecosystem — electronic billing (SAT/FEL), payments, and local utilities.
+Engineering Lead & DevOps with 15+ years shipping backend systems and leading distributed teams. Currently at **Fundamental**, managing developers across Guatemala and Colombia while building open source tooling for the Latin American ecosystem.
 
-Most of my professional work lives in private repos. The public ones are intentional contributions.
+I focus on technical leadership — architecture decisions, team delivery, and keeping the DevOps side healthy. Most of my professional work lives in private repos; the public ones are deliberate OSS contributions.
 
 - 🏗️ **Backend**: PHP (Symfony · Laravel), Node.js, Go
-- ☁️ **Cloud & DevOps**: AWS, DigitalOcean, GitHub Actions
-- 🌎 **Impact**: Latin America (Fundamental) · Europe — France & Poland (PragaWebStudio)
+- ☁️ **Cloud & DevOps**: AWS, DigitalOcean, GitHub Actions, Docker
+- 👥 **Leadership**: Distributed teams across Latin America
+- 🌎 **Reach**: Latin America (Fundamental) · Europe — France & Poland (PragaWebStudio)
+
+---
+
+## Selected Work
+
+> Client projects are under NDA — listed for context, no code shared.
+
+| Client | Project | Sector |
+|---|---|---|
+| **Fox International Channels** | CMS for Fox Deportes | Media & Entertainment |
+| **Cable & Wireless (C&W)** | Service quotation platform | Telecom |
+| **PragaWebStudio** | Skills Management application | Enterprise / Europe |
+| *(French market)* | Talent management platform | HR Tech · i18n |
 
 ---
 
