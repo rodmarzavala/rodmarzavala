@@ -97,8 +97,6 @@ Unofficial TypeScript SDK for [Recurrente](https://recurrente.com), a payment ga
 
 ---
 
----
-
 ## GitHub Stats
 
 <p align="center">
