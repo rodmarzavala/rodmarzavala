@@ -27,8 +27,7 @@ Most of my professional work lives in private repos. The public ones are intenti
 
 - 🏗️ **Backend**: PHP (Symfony · Laravel), Node.js, Go
 - ☁️ **Cloud & DevOps**: AWS, DigitalOcean, GitHub Actions
-- 🇬🇹 **Focus**: Building the missing OSS infrastructure for Central American developers
-- 💚 Symfony is my guilty pleasure in a Laravel-dominant market
+- 🌎 **Impact**: Latin America (Fundamental) · Europe — France & Poland (PragaWebStudio)
 
 ---
 
