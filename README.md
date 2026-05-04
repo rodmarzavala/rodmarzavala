@@ -21,7 +21,7 @@
 
 ## About
 
-Engineering Lead & DevOps with 15+ years shipping backend systems and leading distributed teams. Currently at **Fundamental**, managing developers across Guatemala and Colombia while building open source tooling for the Latin American ecosystem.
+Engineering Lead & DevOps with 15+ years shipping backend systems and leading distributed teams. Currently the tech lead at **Fundamental**, a Venture Studio based in Guatemala, where I architect and deliver the software behind their portfolio ventures — from zero to production.
 
 I focus on technical leadership — architecture decisions, team delivery, and keeping the DevOps side healthy. Most of my professional work lives in private repos; the public ones are deliberate OSS contributions.
 
@@ -41,9 +41,7 @@ I focus on technical leadership — architecture decisions, team delivery, and k
 | **Fox International Channels** | CMS for Fox Deportes | Media & Entertainment |
 | **Cable & Wireless (C&W)** | Service quotation platform | Telecom |
 | **PragaWebStudio** | SkillsBoards · Talent management platform | Enterprise SaaS · Europe |
-| **[Vudy](https://vudy.app)** | Platform development | SaaS |
-| **[Simon](https://app.holasimon.ai)** | AI platform *(Fundamental)* | AI · SaaS |
-| **[Enko](http://enko.org)** | Education platform *(Fundamental)* | EdTech |
+| **[Fundamental](https://fundamental.vc)** *(Venture Studio)* | [Simon AI](https://app.holasimon.ai) · [Vudy](https://vudy.app) · [Enko](http://enko.org) | AI · SaaS · EdTech |
 
 ---
 
