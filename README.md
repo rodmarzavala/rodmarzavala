@@ -40,8 +40,10 @@ I focus on technical leadership — architecture decisions, team delivery, and k
 |---|---|---|
 | **Fox International Channels** | CMS for Fox Deportes | Media & Entertainment |
 | **Cable & Wireless (C&W)** | Service quotation platform | Telecom |
-| **PragaWebStudio** | Skills Management application | Enterprise / Europe |
-| *(French market)* | Talent management platform | HR Tech · i18n |
+| **PragaWebStudio** | SkillsBoards · Talent management platform | Enterprise SaaS · Europe |
+| **[Vudy](https://vudy.app)** | Platform development | SaaS |
+| **[Simon](https://app.holasimon.ai)** | AI platform *(Fundamental)* | AI · SaaS |
+| **[Enko](http://enko.org)** | Education platform *(Fundamental)* | EdTech |
 
 ---
 
@@ -60,11 +62,13 @@ I focus on technical leadership — architecture decisions, team delivery, and k
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 **Frameworks**
 
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 ---
