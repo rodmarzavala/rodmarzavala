@@ -99,6 +99,14 @@ Unofficial TypeScript SDK for [Recurrente](https://recurrente.com), a payment ga
 
 ---
 
+## Contributions
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/rodmarzavala" alt="Rodmar's contribution graph" />
+</p>
+
+---
+
 <p align="center">
   <i>Open to international collaborations, consulting, and interesting backend/DevOps challenges.</i><br/>
   <a href="https://www.linkedin.com/in/rodmarzavala/">Let's connect →</a>
