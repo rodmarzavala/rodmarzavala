@@ -38,11 +38,11 @@ I focus on technical leadership — architecture decisions, team delivery, and k
 
 | Client | Project | Sector |
 |---|---|---|
-| **Fox International Channels** | CMS for Fox Deportes | Media & Entertainment |
+| **[Fox International Channels](https://www.foxdeportes.com)** | CMS for Fox Deportes | Media & Entertainment |
 | **Cable & Wireless (C&W)** | Service quotation platform | Telecom |
-| **PragaWebStudio** | SkillsBoards · Talent management platform | Enterprise SaaS · Europe |
+| **[PragaWebStudio](https://www.pragawebstudio.com)** | SkillsBoards · Talent management platform | Enterprise SaaS · Europe |
 | **[Vudy](https://landing.vudy.app)** | Cloud infrastructure for cross-border payments & crypto APIs | Fintech · Blockchain |
-| **[Fundamental](https://fundamental.lat)** *(Venture Studio)* | [Simon AI](https://app.holasimon.ai) · [Enko](http://enko.org) | AI · SaaS · EdTech |
+| **[Fundamental](https://fundamental.lat)** *(Venture Studio)* | [Simon](https://app.holasimon.ai) · [Enko](http://enko.org) | AI · SaaS · EdTech |
 
 ---
 
@@ -100,7 +100,7 @@ Unofficial TypeScript SDK for [Recurrente](https://recurrente.com), a payment ga
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodmarzavala&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=rodmarzavala&theme=github-dark-blue&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodmarzavala&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165" />
 </p>
 
