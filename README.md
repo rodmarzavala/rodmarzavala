@@ -41,7 +41,8 @@ I focus on technical leadership — architecture decisions, team delivery, and k
 | **Fox International Channels** | CMS for Fox Deportes | Media & Entertainment |
 | **Cable & Wireless (C&W)** | Service quotation platform | Telecom |
 | **PragaWebStudio** | SkillsBoards · Talent management platform | Enterprise SaaS · Europe |
-| **[Fundamental](https://fundamental.vc)** *(Venture Studio)* | [Simon AI](https://app.holasimon.ai) · [Vudy](https://vudy.app) · [Enko](http://enko.org) | AI · SaaS · EdTech |
+| **[Vudy](https://landing.vudy.app)** | Cloud infrastructure for cross-border payments & crypto APIs | Fintech · Blockchain |
+| **[Fundamental](https://fundamental.lat)** *(Venture Studio)* | [Simon AI](https://app.holasimon.ai) · [Enko](http://enko.org) | AI · SaaS · EdTech |
 
 ---
 
