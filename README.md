@@ -23,7 +23,7 @@
 
 Engineering Lead & DevOps with 15+ years shipping backend systems and leading distributed teams. Currently the tech lead at **Fundamental**, a Venture Studio based in Guatemala, where I architect and deliver the software behind their portfolio ventures — from zero to production.
 
-I focus on technical leadership — architecture decisions, team delivery, and keeping the DevOps side healthy. Most of my professional work lives in private repos; the public ones are deliberate OSS contributions.
+I focus on technical leadership — architecture decisions, team delivery, and keeping the DevOps side healthy. Most of my professional work lives in private repos; the public ones are deliberate open source contributions.
 
 - 🏗️ **Backend**: PHP (Symfony · Laravel), Node.js, Go
 - ☁️ **Cloud & DevOps**: AWS, DigitalOcean, GitHub Actions, Docker
@@ -96,12 +96,6 @@ Unofficial TypeScript SDK for [Recurrente](https://recurrente.com), a payment ga
 - [`gt-utils-js`](https://github.com/rodmarzavala/gt-utils-js) — JavaScript/TypeScript utilities for Guatemalan developers
 
 ---
-
-## Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodmarzavala&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</p>
 
 ---
 
